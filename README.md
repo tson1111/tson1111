@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Cong Ding</h1>
-<h3 align="center">A CS graduate student at UW-Madison</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tson1111&label=Profile%20views&color=0e75b6&style=flat" alt="tson1111" /> </p>
 
