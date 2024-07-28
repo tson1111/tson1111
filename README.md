@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cong Ding</h1>
 
-[![Cong's GitHub stats](https://github-readme-stats-blond-five-70.vercel.app/api?username=tson1111)](https://github.com/tson1111/github-readme-stats)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tson1111&label=Profile%20views&color=0e75b6&style=flat" alt="tson1111" /> </p>
 
 <p align="left"> Chat with me: <a href=https://cal.com/congd>https://cal.com/congd</a></p>
